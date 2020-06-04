@@ -7,11 +7,22 @@ import { CardGroup } from 'react-bootstrap';
 const data = {
     members: [
         {
-            img: '/images/person.png',
-            name: 'Vera',
-            email: 'vera@web.de',
+            img: '/images/vera.jpeg',
+            name: 'Vera Reimers',
+            email: 'verareimers@gmx.net',
             social_media: [
-                
+                {
+                    name: '/images/linkedin.png',
+                    link: 'https://de.linkedin.com/in/vera-reimers-a95354186'
+                },
+                {
+                    name: '/images/xing.webp',
+                    link: 'https://www.xing.com/profile/Vera_Reimers'
+                },
+                {
+                    name: '/images/github.jpg',
+                    link: 'https://github.com/waldheidemarie'
+                }
             ]
         },
         {
