@@ -30,29 +30,25 @@ const data = {
             ]
         },
         {
-            img: '/images/person.png',
-            name: 'Jovan ',
-            email: 'has@web.de',
+            img: '/images/jovan.jpeg',
+            name: 'Jovan Derebanoski',
+            email: 'jderebanoski@gmail.com',
             social_media: [
                 {
                     name: '/images/web_page.png',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'https://jojodev.herokuapp.com/'
                 },
                 {
                     name: '/images/linkedin.png',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'https://www.linkedin.com/in/jovan-derebanoski-7a053b153/'
                 },
                 {
                     name: '/images/xing.webp',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'https://www.xing.com/profile/Jovan_Derebanoski/cv'
                 },
                 {
                     name: '/images/github.jpg',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'https://github.com/Ultral1sk'
                 }
             ]
         }

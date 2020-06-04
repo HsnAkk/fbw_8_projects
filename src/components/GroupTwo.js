@@ -7,29 +7,13 @@ import { CardGroup } from 'react-bootstrap';
 const data = {
     members: [
         {
-            img: '/images/person.png',
-            name: 'Ivanka',
-            email: 'has@web.de',
+            img: '/images/ivanka.jpg',
+            name: 'Ivanka Knezovic',
+            email: 'ivanka.knezovic92@gmail.com',
             social_media: [
                 {
-                    name: '/images/web_page.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
                     name: '/images/linkedin.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/xing.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/github.jpg',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'https://www.linkedin.com/in/ivanka-knezovic-5ab4a3184'
                 }
             ]
         },
@@ -45,11 +29,7 @@ const data = {
                 {
                     name: '/images/github.jpg',
                     link: 'http://https://github.com/maheralhallak'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
+                }
             ]
         },
         {
@@ -80,30 +60,22 @@ const data = {
             ]
         },
         {
-            img: '/images/person.png',
-            name: 'Bilal',
-            email: 'has@web.de',
+            img: '/images/bilal.jpeg',
+            name: 'Bilal Ali',
+            email: 'bilalidin77@gmail.com',
             social_media: [
                 {
-                    name: '/images/web_page.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
                     name: '/images/linkedin.png',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'https://www.linkedin.com/in/bilal-ali-9516631a6/'
                 },
                 {
                     name: '/images/xing.webp',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'https://www.xing.com/profile/Bilal_Ali11/cv'
                 },
                 {
                     name: '/images/github.jpg',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
+                    link: 'https://github.com/billo77'
+                }
             ]
         }
     ],
