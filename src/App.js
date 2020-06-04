@@ -1,25 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
+import { Switch, Route } from 'react-router-dom';
+import Header from './components/Header';
+import GroupOne from './components/GroupOne';
+import GroupTwo from './components/GroupTwo';
+import GroupThree from './components/GroupThree';
+import GroupFour from './components/GroupFour';
+import GroupFive from './components/GroupFive';
+import GroupSix from './components/GroupSix';
+import Home from './components/Home';
 import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div>
+          <Header />
+          <Switch>
+              <Route exact path="/" component= {Home} />
+              <Route path="/how_you_doing" component= {GroupOne} />
+              <Route path="/wawawiwa" component= {GroupTwo} />
+              <Route path="/albatros" component= {GroupThree} />
+              <Route path="/tom&jerry" component= {GroupFour} />
+              <Route path="/be_guys" component= {GroupFive} />
+              <Route path="/vins" component= {GroupSix} />
+          </Switch>
+      </div>
   );
 }
 
