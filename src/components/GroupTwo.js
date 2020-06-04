@@ -33,11 +33,14 @@ const data = {
             ]
         },
         {
-            img: '/images/person.png',
-            name: 'Waseem',
-            email: 'waseem@web.de',
+            img: '/images/waseem.jpeg',
+            name: 'Waseem Haddad',
+            email: 'waseemhaddad133@gmail.com',
             social_media: [
-            
+                {
+                    name: '/images/linkedin.png',
+                    link: 'https://www.linkedin.com/in/waseem-haddad-56a8b2169/'
+                }
             ]
         },
         {

@@ -54,8 +54,8 @@ const data = {
         }
     ],
     project_images: [
-        {size: 'full', image: '/images/tomjerry_1.jpeg'}, 
         {size: 'full', image: '/images/tomjerry_2.jpeg'}, 
+        {size: 'full', image: '/images/tomjerry_1.jpeg'}, 
         {size: 'full', image: '/images/tomjerry_3.jpeg'}, 
         {size: 'full', image: '/images/tomjerry_4.jpeg'}, 
 
