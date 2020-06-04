@@ -9,40 +9,14 @@ const data = {
         {
             img: '/images/person.png',
             name: 'Vins',
-            email: 'has@web.de',
+            email: 'vins@web.de',
             social_media: [
-                {
-                    name: '/images/web_page.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/linkedin.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/xing.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/github.jpg',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
-                }
+                
             ]
         }
     ],
     project_images: [
-        {size: 'full', image: '/images/project.jpg'}, 
-        {size: 'half', image: '/images/project.jpg'}, 
-        {size: 'half', image: '/images/project.jpg'}, 
-        {size: 'onefourth', image: '/images/project.jpg'},
-        {size: 'onefourth', image: '/images/project.jpg'},
-        {size: 'onefourth', image: '/images/project.jpg'},
-        {size: 'onefourth', image: '/images/project.jpg'}
-    
+        {size: 'full', image: '/images/project.jpg'},    
     ]
 }
 

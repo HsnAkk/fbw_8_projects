@@ -5,12 +5,12 @@ import { Link } from 'react-router-dom'
 
 const data = [
     {
-        image: '/images/tomjerry_1.jpeg',
+        image: '/images/how_you_doing.jpeg',
         topic: 'Project - 1',
         link: '/how_you_doing'
     },
     {
-        image: '/images/tomjerry_1.jpeg',
+        image: '/images/wawawiwa.png',
         topic: 'Project - 2',
         link: '/wawawiwa'
     },
@@ -25,12 +25,12 @@ const data = [
         link: '/tom&jerry'
     },
     {
-        image: '/images/tomjerry_1.jpeg',
+        image: '/images/project.jpg',
         topic: 'Project - 5',
         link: '/be_guys'
     },
     {
-        image: '/images/tomjerry_1.jpeg',
+        image: '/images/project.jpg',
         topic: 'Project - 6',
         link: '/vins'
     },

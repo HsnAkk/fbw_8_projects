@@ -9,28 +9,9 @@ const data = {
         {
             img: '/images/person.png',
             name: 'Vera',
-            email: 'has@web.de',
+            email: 'vera@web.de',
             social_media: [
-                {
-                    name: '/images/web_page.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/linkedin.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/xing.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/github.jpg',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
-                }
+                
             ]
         },
         {
@@ -45,30 +26,18 @@ const data = {
             ]
         },
         {
-            img: '/images/person.png',
-            name: 'Noor',
-            email: 'has@web.de',
+            img: '/images/noor.jpeg',
+            name: 'Noor AlDeen Kanso',
+            email: 'noorkanso@gmx.de',
             social_media: [
                 {
-                    name: '/images/web_page.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
                     name: '/images/linkedin.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/xing.webp',
-                    link: 'http://www.hasantuna.tk'
+                    link: 'http://linkedin.com/in/noorka'
                 },
                 {
                     name: '/images/github.jpg',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
+                    link: 'http://https://github.com/Noor-Ka'
+                }
             ]
         }
     ],

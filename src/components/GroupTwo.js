@@ -35,28 +35,9 @@ const data = {
         {
             img: '/images/person.png',
             name: 'Waseem',
-            email: 'has@web.de',
+            email: 'waseem@web.de',
             social_media: [
-                {
-                    name: '/images/web_page.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/linkedin.png',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/xing.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/github.jpg',
-                    link: 'http://www.hasantuna.tk'
-                },
-                {
-                    name: '/images/medium.webp',
-                    link: 'http://www.hasantuna.tk'
-                },
+            
             ]
         },
         {
