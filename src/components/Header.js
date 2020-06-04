@@ -16,7 +16,7 @@ function Header() {
                         <Link to="/wawawiwa" className="link" >Wawawiwa</Link>
                         <Link to="/albatros" className="link" >Albatros</Link>
                         <Link to="/tom&jerry" className="link" >Tom & Jerry</Link>
-                        <Link to="/be_guys" className="link" >BE Guy's</Link>
+                        <Link to="/be_guys" className="link" >Backend Guy's</Link>
                         <Link to="/vins" className="link" >Vins</Link>
                     </Nav>
                 </Navbar.Collapse>

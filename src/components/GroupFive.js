@@ -7,24 +7,43 @@ import { CardGroup } from 'react-bootstrap';
 const data = {
     members: [
         {
-            img: '/images/person.png',
-            name: 'Milad',
-            email: 'milad@web.de',
+            img: '/images/milad.jpeg',
+            name: 'Milad Mosadegh',
+            email: 'mosaddegh.milad@gmail.com',
             social_media: [
-                
+                {
+                    name: '/images/github.jpg',
+                    link: 'https://github.com/Milad-mosadegh'
+                }
             ]
         },
         {
-            img: '/images/person.png',
-            name: 'Ather',
-            email: 'ather@web.de',
+            img: '/images/ather.jpeg',
+            name: 'Ather Ahmad',
+            email: 'atherahmad@gmail.com',
             social_media: [
-                
+                {
+                    name: '/images/linkedin.png',
+                    link: 'https://www.linkedin.com/in/ather-ahmad-11a040bb'
+                },
+                {
+                    name: '/images/xing.webp',
+                    link: 'https://www.xing.com/profile/Ather_Ahmad2'
+                },
+                {
+                    name: '/images/github.jpg',
+                    link: 'https://github.com/atherahmad'
+                }
             ]
         }
     ],
     project_images: [
-        {size: 'full', image: '/images/project.jpg'},    
+        {size: 'full', image: '/images/c2c_1.jpeg'},    
+        {size: 'full', image: '/images/c2c_2.jpeg'},    
+        {size: 'full', image: '/images/c2c_3.jpeg'},    
+        {size: 'full', image: '/images/c2c_4.jpeg'},    
+        {size: 'full', image: '/images/c2c_5.jpeg'},    
+        {size: 'full', image: '/images/c2c_6.jpeg'},    
     ]
 }
 

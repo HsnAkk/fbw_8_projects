@@ -25,8 +25,8 @@ const data = [
         link: '/tom&jerry'
     },
     {
-        image: '/images/project.jpg',
-        topic: 'Project - 5',
+        image: '/images/c2c_1.jpeg',
+        topic: 'C-2-C Online Shop',
         link: '/be_guys'
     },
     {
@@ -51,7 +51,7 @@ function Home() {
                                 <div className="m-2 shadow">
                                     <Link to={item.link}>
                                         <Card>
-                                            <Card.Img src= {item.image} width= "100%"/>
+                                            <Card.Img src= {item.image} width= "100%" height="280px"/>
                                         </Card>
                                     </Link>
                                 </div>
