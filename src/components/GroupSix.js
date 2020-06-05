@@ -27,7 +27,10 @@ const data = {
         }
     ],
     project_images: [
-        {size: 'full', image: '/images/project.jpg'},    
+        {size: 'full', image: '/images/vins_1.jpeg'},    
+        {size: 'full', image: '/images/vins_2.jpeg'},    
+        {size: 'full', image: '/images/vins_3.jpeg'},    
+        {size: 'full', image: '/images/vins_4.jpeg'},    
     ]
 }
 

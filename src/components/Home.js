@@ -30,7 +30,7 @@ const data = [
         link: '/be_guys'
     },
     {
-        image: '/images/project.jpg',
+        image: '/images/vins_1.jpeg',
         topic: 'Project - 6',
         link: '/vins'
     },
