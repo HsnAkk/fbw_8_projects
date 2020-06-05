@@ -18,7 +18,7 @@ const data = {
             ]
         },
         {
-            img: '/images/ather.jpeg',
+            img: '/images/ather.png',
             name: 'Ather Ahmad',
             email: 'atherahmad@gmail.com',
             social_media: [

@@ -30,7 +30,7 @@ const data = {
             ]
         },
         {
-            img: '/images/jovan.jpeg',
+            img: '/images/jovan.png',
             name: 'Jovan Derebanoski',
             email: 'jderebanoski@gmail.com',
             social_media: [
