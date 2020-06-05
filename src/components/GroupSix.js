@@ -7,7 +7,7 @@ import { CardGroup } from 'react-bootstrap';
 const data = {
     members: [
         {
-            img: '/images/person.png',
+            img: '/images/vins.jpeg',
             name: 'Ventsislav Velinov',
             email: 'velinov875@gmail.com',
             social_media: [
