@@ -8,10 +8,21 @@ const data = {
     members: [
         {
             img: '/images/person.png',
-            name: 'Vins',
-            email: 'vins@web.de',
+            name: 'Ventsislav Velinov',
+            email: 'velinov875@gmail.com',
             social_media: [
-                
+                {
+                    name: '/images/linkedin.png',
+                    link: 'https://www.linkedin.com/in/ventsislav-velinov-5981651a4/'
+                },
+                {
+                    name: '/images/xing.webp',
+                    link: 'https://www.xing.com/profile/Ventsislav_Velinov/cv'
+                },
+                {
+                    name: '/images/github.jpg',
+                    link: 'https://github.com/Vincente875'
+                }
             ]
         }
     ],
