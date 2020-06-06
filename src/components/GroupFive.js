@@ -12,6 +12,10 @@ const data = {
             email: 'mosaddegh.milad@gmail.com',
             social_media: [
                 {
+                    name: '/images/web_page.png',
+                    link: 'https://milad-mosadegh.github.io/My-Portfolio/'
+                },
+                {
                     name: '/images/github.jpg',
                     link: 'https://github.com/Milad-mosadegh'
                 }
